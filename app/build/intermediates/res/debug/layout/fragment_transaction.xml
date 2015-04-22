@@ -1,0 +1,27 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.navigationdrawerexample.transactions">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Transaction"
+        android:id="@+id/textView13"
+        android:layout_gravity="center_horizontal|top" />
+
+    <ListView
+        android:id="@+id/transaction_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:choiceMode="singleChoice"
+        android:divider="#000000"
+        android:dividerHeight="1dp"
+        android:background="#fff"
+
+        />
+</FrameLayout>
+<!-- From: file:/C:/Users/gabdulla/Music/NavigationDrawer1/app/src/main/res/layout/fragment_transaction.xml -->

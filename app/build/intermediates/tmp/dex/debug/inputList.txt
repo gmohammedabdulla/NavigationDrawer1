@@ -1,0 +1,4 @@
+C:\Users\gabdulla\Music\NavigationDrawer1\app\build\intermediates\classes\debug
+C:\Users\gabdulla\Music\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-b32ea95d12bc00e3a0355ed3b3b514f483c5d145.jar
+C:\Users\gabdulla\Music\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-445926535d1a2a84dfaddc748d6d38776e6bf81b.jar
+C:\Users\gabdulla\Music\NavigationDrawer1\app\build\intermediates\pre-dexed\debug\classes-6c662be008062b6f496856b0905b114c399839e1.jar
